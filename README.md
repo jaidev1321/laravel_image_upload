@@ -3,6 +3,20 @@
 <p> You can raise issues if you find any bug or Imporovement in Code</p>
 
 <p>Keep Coding..</p>
+
+<h2>How to run?</h2>
+<blockquote>
+<ol>
+<li>Clone Repo</li>
+<li>Create .<span data-wsc-id="kky669l65xk9soh91" data-wsc-lang="en_US" data-scayt-word="env">env</span> file</li>
+<li>Run <span data-wsc-id="kky66ac7u0s63q3h7" data-wsc-lang="en_US" data-scayt-word="php">php</span> artisan migrate</li>
+<li>PHP artisan serve</li>
+<li>open /upload after root <span data-wsc-id="kky66b42wq0qy7grp" data-wsc-lang="en_US" data-scayt-word="url">url</span></li>
+<li>submit form</li>
+<li>open /upload/view to view the uploaded files</li>
+</ol>
+</blockquote>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
